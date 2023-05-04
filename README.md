@@ -124,10 +124,6 @@ Select a file to import:
 ![Alt text](images/import-collection-3.png?raw=true "Image 3")
 
 
-Right click on the imported collection to set variables for the collection:
-
-![Alt text](images/import-collection-4.png?raw=true "Image 4")
-
-Provide variables for the collection (similarly to how this was done in the course):
+Provide variables for the collection:
 
 ![Alt text](images/import-collection-5.png?raw=true "Image 5")

@@ -77,7 +77,7 @@ export const handler = async (event: CustomAuthorizerEvent): Promise<CustomAutho
 async function verifyToken(authHeader: string): Promise<JwtPayload> {
 // async function verifyToken(authHeader: string) {
   const token = getToken(authHeader)
-  const jwt: Jwt = decode(token, { complete: true }) as Jwt
+  // const jwt: Jwt = decode(token, { complete: true }) as Jwt
 
   // if(token !== '123'){
   //     throw new Error('Invalid token');
